@@ -10,6 +10,7 @@ import java.util.List;
 import controller.Database;
 import model.User;
 
+//It is just a test for git
 public class UserDAO extends Database {
 
 	public static void addUser(User user) {
